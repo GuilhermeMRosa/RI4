@@ -10,11 +10,6 @@ const empresa = new Empresa(
     enderecoEmpresa
 )
 
-
-// Easter egg - 4
-// "Pra onde vocês estão indo? pro bingo?"
-
-
 empresa.telefones.add(new Telefone("11", "3999-1998"))
 empresa.telefones.add(new Telefone("11", "3999-1999"))
 
